@@ -1,6 +1,5 @@
 Welcome All Cases
 
-<<<<<<< HEAD
 #################### User Case-1 #####################
 
 #!/bin/bash -x
