@@ -18,5 +18,11 @@ randomVariable=$EmpCheck
                                 Hrs=0
                                  ;;
                           esac
+         	 salary=$(($Hrs*$EmpRatePerHours*$EmployeeWorkdaysPerMonths))
+                echo $salary
+               ((Startingdays++))
+        done
+                 echo $salary
+
 }
 WorkHours
