@@ -170,12 +170,6 @@ randomVariable=$EmpCheck
                  echo $salary
 }
 WorkHours
-                 echo $salary
-                 totalSalary=$(( $totalSalary+$salary ))
-                 echo $totalSalary
-                 ((Startingdays++))
-done
-
 
 ########################## UserCase8 ###########################
 
