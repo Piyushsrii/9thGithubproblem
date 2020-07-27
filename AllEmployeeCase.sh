@@ -1,6 +1,8 @@
 Welcome All Cases
 
 #User Case4
+#Problem-4 ------->Solving using switch statement
+
 #!/bin/bash -x
 isPartTime=1
 isFullTime=2
