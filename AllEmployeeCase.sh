@@ -1,5 +1,6 @@
 Welcome All Cases
 #User Case7
+#problem Statement----->Refactor the code to write a function to get work hours
 
 #!/bin/bash -x
 function WorkHours(){
