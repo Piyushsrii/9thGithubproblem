@@ -1,6 +1,7 @@
 Welcome All Cases
 
 #UserCase-6
+#Problem Satement------->(Calculate Wages till a condition of total working hours or days i sreached for a month)
 #!/bin/bash -x
 isPartTime=1
 isFullTime=2
