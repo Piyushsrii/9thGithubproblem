@@ -1,6 +1,8 @@
 Welcome All Cases
 
 #UserCase5
+#problem-5 ------>Calculationg wages for a month
+
 #!/bin/bash -x
 isPartTime=1
 isFullTime=2
