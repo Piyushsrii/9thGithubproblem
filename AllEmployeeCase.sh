@@ -1,6 +1,8 @@
 Welcome All Cases
 
 #User Case 3
+#Problem 3----->Add Part time Employee & Wage
+
 #!/bin/bash -x
  isPartTime=1;
  isFullTime=2;
