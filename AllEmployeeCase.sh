@@ -1,6 +1,7 @@
 Welcome All Cases
 
 #UserCase-9
+#Problem Statement------>Store the day and the daily wage along with the tootal wage
 #!/bin/bash -x
 # CONSTANT FOR THE PROGRAM
 IS_PART_TIME=1;
