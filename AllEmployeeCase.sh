@@ -1,6 +1,7 @@
 Welcome All Cases
 
 #User case 2
+#Problem2----->(Calculate daily Employee Wage)
 #!/bin/bash -x
  isPartTime=1;
  isFullTime=2;
