@@ -1,6 +1,7 @@
 Welcome All Cases
 
 #UserCase8
+#Problem Statement----->Store the daily Wage along with the Total Wage
 #!/bin/bash -x
 isPartTime=1
 isFullTime=2
